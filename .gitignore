@@ -2,7 +2,7 @@
 *.iml
 out
 gen
-
+node_modules/
 modules/
 vendor/
 composer.lock
