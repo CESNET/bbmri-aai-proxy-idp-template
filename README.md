@@ -5,6 +5,8 @@
 [![Build and CI](https://github.com/CESNET/bbmri-aai-proxy-idp-template/actions/workflows/build_and_check.yml/badge.svg)](https://github.com/CESNET/bbmri-aai-proxy-idp-template/build_and_check.yml)
 [![License](https://poser.pugx.org/bbmri/simplesamlphp-module-bbmri/license)](https://packagist.org/packages/bbmri/simplesamlphp-module-bbmri)
 
+**REPOSITORY HAS BEEN MOVED TO: https://gitlab.ics.muni.cz/perun-proxy-aai/simplesamlphp/simplesamlphp-module-bbmri**
+
 Template for BBMRI AAI Proxy IdP component
 
 ## Contribution
